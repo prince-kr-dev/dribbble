@@ -470,6 +470,7 @@ footer{
     }
     nav i{
         display: initial;
+        font-size: 6vw;
         transition: all ease 0.3s;
     }
     nav i:hover{
